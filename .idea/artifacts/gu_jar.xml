@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gu_jar</output-path>
+    <root id="archive" name="gu.jar">
+      <element id="module-output" name="gu" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.54/fastjson-1.2.54.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
+    </root>
+  </artifact>
+</component>
